@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
+            "name": "Tabua2",
+            "request": "launch",
+            "mainClass": "Tabua2",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
+            "name": "ParEImpar",
+            "request": "launch",
+            "mainClass": "ParEImpar",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
+            "name": "MaiorEMedia",
+            "request": "launch",
+            "mainClass": "MaiorEMedia",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
+            "name": "Nota",
+            "request": "launch",
+            "mainClass": "Nota",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
+            "name": "NomeEIdade",
+            "request": "launch",
+            "mainClass": "NomeEIdade",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

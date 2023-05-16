@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Locale;
 
 public class Tabuada {
-    
+
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
@@ -19,6 +19,6 @@ public class Tabuada {
             int multiplica = n1 * contador;
             System.out.println(tabuada + " x " + contador + " = " + multiplica);
             contador++;
-        }   
+        }
     }
 }
