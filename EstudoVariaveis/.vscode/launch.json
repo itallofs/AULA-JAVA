@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayMultidi",
+            "request": "launch",
+            "mainClass": "ArrayMultidi",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
+            "name": "NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "NumerosAleatorios",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
+            "name": "Consoantes",
+            "request": "launch",
+            "mainClass": "Consoantes",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
+            "name": "OrdemInversa",
+            "request": "launch",
+            "mainClass": "OrdemInversa",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
             "name": "Fatorial",
             "request": "launch",
             "mainClass": "Fatorial",
