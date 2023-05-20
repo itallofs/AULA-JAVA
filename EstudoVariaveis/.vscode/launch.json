@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Metodos.Main",
+            "projectName": "EstudoVariaveis_cdaa5cc3"
+        },
+        {
+            "type": "java",
             "name": "ArrayMultidi",
             "request": "launch",
             "mainClass": "ArrayMultidi",
